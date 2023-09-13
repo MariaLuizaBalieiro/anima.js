@@ -41,7 +41,7 @@ function mudarOpacidade () {
 }
 
 function mudarTexto () {
-    alert ('HII!')
+    alert ('Hi 💕')
 }
 
 function mudarGradiente () {
